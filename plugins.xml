@@ -1,0 +1,6 @@
+<plugins> 
+   <pyqgis_plugin name="Save Attributes" version="0.1">
+       <qgis_minimum_version>2.18.0</qgis_minimum_version>
+        <download_url>YourRepositoryURL/SaveAttributes.SomeInfo.zip</download_url>
+   </pyqgis_plugin>
+</plugins>
