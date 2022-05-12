@@ -2,6 +2,6 @@
    <pyqgis_plugin name="Save Attributes" version="0.1.0">
        <qgis_minimum_version>2.18.0</qgis_minimum_version>
         <file_name>SaveAttributes</file_name>
-        <download_url>https://github.com/rudnevalex/GitHub.io.git/SaveAttributes.SomeInfo.zip</download_url>
+        <download_url>https://github.com/rudnevalex/NextGIS/SaveAttributes.SomeInfo.zip</download_url>
    </pyqgis_plugin>
 </plugins>
